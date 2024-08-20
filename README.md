@@ -1,3 +1,0 @@
-# lojavirtual
-repositório de test
-
